@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Oculus/VR/Scenes/MultimodalHandsAndControllers.unity
+    guid: 52478c233ce9df34087cc379c060a2d3
+  - enabled: 1
+    path: Assets/Scenes/projectScene.unity
+    guid: bf7291c052bdf6d499cd08b2c6c875cf
+  - enabled: 0
+    path: Assets/Scenes/projectSceneABOUT.unity
+    guid: e3a9b832732769d40b266e3dfcc37413
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: bb48f8c679f171c428cbda272d678756
+  - enabled: 0
+    path: Assets/Scenes/Laboratory.unity
+    guid: 5b457198ab5c033448f05eed32abddec
+  - enabled: 1
+    path: Assets/Scenes/mailles.unity
+    guid: 4acbbe79641f251419e52dc803ca4fcb
+  - enabled: 0
+    path: Assets/Scenes/cube.unity
+    guid: 1b5dcf7e3668845408aee5c110e5e78b
+  - enabled: 0
+    path: Assets/Scenes/mailles - Copie.unity
+    guid: a0600f58359911c4d93b9451bf552229
+  - enabled: 0
+    path: Assets/Scenes/HANDS.unity
+    guid: 77f89954920987f419d455154e0b35c8
+  - enabled: 0
+    path: Assets/Fantasy Forest Environment Free Sample/Scenes/demoScene_free.unity
+    guid: 7769f33fb4fa2e5458344a36556ad760
+  - enabled: 0
+    path: Assets/Scenes/forest (2).unity
+    guid: 1a0580f699cbe744f96bdf57f422deff
+  - enabled: 0
+    path: Assets/Scenes/projectScene - Copie.unity
+    guid: bf689957275791e49b641cf4bb23e544
+  - enabled: 0
+    path: Assets/Scenes/testConnection.unity
+    guid: 35c77341e2dd8284fa38450f42756250
+  - enabled: 0
+    path: Assets/Scenes/foret.unity
+    guid: 66aee66d60f43ca48ab583eec20a9a87
+  - enabled: 1
+    path: Assets/Scenes/cubiques.unity
+    guid: 65097d792d698624badd610e922f9eae
+  - enabled: 1
+    path: Assets/Scenes/cubiquesQuadratique.unity
+    guid: fd3c087451c264e45a67bc6c2fda3a23
+  - enabled: 1
+    path: Assets/Scenes/cubiquesOrthorhombique.unity
+    guid: b30630f82a4e53547a5a63744f51a666
+  - enabled: 1
+    path: Assets/Scenes/cubiqueshexagonale.unity
+    guid: 5b40ee50c85a33348900ee3fab7fb821
+  - enabled: 1
+    path: "Assets/Scenes/cubiquesrhomo\xE9drique.unity"
+    guid: 204f6ad1f16d73a42b52ba86b8d91554
+  - enabled: 1
+    path: Assets/Scenes/cubiquesTriclinique.unity
+    guid: 8f351751154f13d40b00362c207d6b9c
+  - enabled: 1
+    path: Assets/Scenes/cubiquesMonoclinique.unity
+    guid: 20a7e0bd76f0619479911ced2ab0b22e
+  - enabled: 1
+    path: Assets/Scenes/quadratique.unity
+    guid: 534d380f3132fde4ca5e8040f55a4e83
+  - enabled: 1
+    path: Assets/Scenes/cube1.unity
+    guid: 262a14f4643d2364983af362a4d379d7
+  - enabled: 1
+    path: Assets/Scenes/hexagonale.unity
+    guid: 32c14159fd754e34ab9c98725d1dac37
+  - enabled: 1
+    path: Assets/Scenes/monoclinique.unity
+    guid: 873d3ef4975615940b9a110c029e649a
+  - enabled: 1
+    path: Assets/Scenes/orthorhombique.unity
+    guid: 48c4a7c55fcaf9d4f977389f4ddabb20
+  - enabled: 1
+    path: "Assets/Scenes/rhombo\xE9drique.unity"
+    guid: e214ed0d47288d9468322fe87ba78dd3
+  - enabled: 1
+    path: Assets/Scenes/triclinique.unity
+    guid: 0ebd8dcc1a0ee3847bbec5a28a68cb91
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8efbd355e9afb5141a4f8109d90037a6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8ae8bb36125058f43889768e14b69022, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3dc757ece863adf43872e5ef473c249f, type: 2}
